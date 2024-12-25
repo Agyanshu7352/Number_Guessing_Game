@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+body {
+    font-family: Arial, sans-serif;
+    background-color: aquamarine;
+    text-align: center;
+    
+}
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.box{
+    margin: 10%;
+}
+#num{
+    height: 2.5rem;
+    width: 20rem;
+    border: 3px solid black;
+    border-radius: 50px;
+    padding: 20px;
+
+}
+#btn{
+    margin: 1.5rem;
+    height: 2.5rem;
+    width: 100px;
+    border: thick double red;
+    border-radius: 50px;
+    
+}
+#btn:hover{
+    background-color: black;
+    color: white;
+    box-shadow: 3px 3px 8px rgb(255, 192, 32);
+}
+.foot{
+    height: 6rem;
+    width: 100vw;
+    background-color: rgb(50, 30, 30);
+    position: fixed;
+    bottom: 0;
+    display: flex;
+    flex-direction: row;
+    padding: 1rem;
+    justify-content: space-between;
+    color: white;
+    flex-wrap: nowrap;
+    
+}
+.foot li a{
+    text-decoration: none;
+    color: aliceblue;
+}
+.social{
+   margin-right: 4rem;
+
+}
+.social span{
+    font-size: 1.5rem;
+    padding: .3rem;
+    opacity: .4;
+}
+.social span:hover{
+    opacity: 1;
+}
