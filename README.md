@@ -32,6 +32,6 @@ This project is great for beginners in web development and showcases the impleme
 -live page:  https://agyanshu7352.github.io/Number_Guessing_Game/
 ## Screenshots
 
-![App Screenshot](Screenshot 2024-12-25 110439.png)
+![App Screenshot]([Screenshot 2024-12-25 110439.png](https://github.com/Agyanshu7352/Number_Guessing_Game/blob/588e408da1d42a512fe3912d6d5bac511c4f900e/Screenshot%202024-12-25%20110439.png))
 
 
